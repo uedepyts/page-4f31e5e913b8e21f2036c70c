@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "39bf907ef7b67f4be4e86dce",
+  "owner": "uedepyts",
+  "repo": "page-4f31e5e913b8e21f2036c70c",
+  "title": "NaiKo",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4f31e5e913b8e21f2036c70c",
+      "a": "NaiKo",
+      "b": "免费订阅clash节点",
+      "entity": "NaiKo",
+      "brand": "NaiKo",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "af1090702426a9db53726ac23a299e69f382369d0d216bc495f3e6f398dabcc8",
+      "content": {
+        "primary_entity": "NaiKo",
+        "keyword1": "NaiKo",
+        "keyword2": "免费订阅clash节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，桌面端、移动端和路由器各有对应的配置方式。",
+          "AI_CLIENTS_TITLE": "设备与客户端匹配",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求挑好套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松配置",
+          "AI_DESCRIPTION": "，NaiKo 提供基础版、旗舰版与团队版三档套餐，分别对应每月 100GB、300GB 和 1000GB 流量与 3 台、5 台、20 台设备在线额度。旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点和企业定制路由。可按月或按年付费，按年付折算更节省。",
+          "AI_FEATURES_INTRO": "从套餐额度、设备数量和订阅周期三个角度说明选择方式。",
+          "AI_FEATURES_TITLE": "选择服务的三个角度",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按日常使用量决定。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台和 20 台的在线额度，覆盖单人、家庭和团队设备场景。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付可节省约两个月费用，长期使用选年付更合适。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按需求选套餐、确认设备适配、依客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "配置三步走",
+          "AI_HERO_INTRO": "NaiKo 提供多档海外加速套餐，覆盖个人到团队的使用场景。基础版、旗舰版和团队版在流量、设备数量与节点类型上各有侧重，用户可按实际需求选择月付或年付方案。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "基础版 100GB，适合单人日常使用",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备，支持企业定制",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "比较基础版、旗舰版和团队版的流量额度、设备上限和节点类型，确定适合自己的档位。",
+          "AI_STEP_TEXT_2": "确认常用设备的操作系统和客户端类型，查看套餐设备数量是否满足同时在线需求。",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅信息，按客户端文档完成代理规则和分流设置，即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "NaiKo 加速方案",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备，旗舰版5台，团队版20台。同一账号内设备数量按套餐上限计算，超出后可升级套餐或减少同时在线设备。",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB，旗舰版300GB，团队版1000GB。流量按自然月重置，未用完不结转，可根据使用频次选档。",
+          "AI_FAQ_ANSWER_3": "注册后获取订阅地址，在对应客户端中导入。不同平台客户端导入方式略有差异，参照客户端文档操作即可。",
+          "AI_FAQ_ANSWER_4": "各套餐按流量、设备数和线路区分。旗舰版提供IPLC专线优化，团队版提供VIP高带宽节点与定制路由，按需求选择即可。",
+          "AI_FAQ_ANSWER_5": "月付与年付均支持，年付为一次性支付。基础版年付150元，旗舰版350元，团队版850元，可在购买时选择计费周期。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_2": "每月流量不够用怎么办？",
+          "AI_FAQ_QUESTION_3": "订阅地址如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版主要差别在哪里？",
+          "AI_FAQ_QUESTION_5": "支持月付还是年付？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "147e3ea0d1a405034d3340c335ae2c91521176fb8b8a80676c3069c53caa4fd6",
+    "sitemap.xml": "9d7cc673ce88006e1aa8efb3976bf2290ad8734230f3e936136e1c847edfd2ca",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "d65184b56de2712fc5cfcbdcbfbdb24a2cd558811375fd2138e1ac8696bee9e5"
+}
